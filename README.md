@@ -1,5 +1,12 @@
 # decision-tree-builder
 
+Production-grade project scaffold focused on reliability, maintainability, and fast onboarding.
+
+[![CI](https://img.shields.io/github/actions/workflow/status/yksanjo/decision-tree-builder/ci.yml?branch=main&label=ci)](https://github.com/yksanjo/decision-tree-builder/actions)
+![License](https://img.shields.io/github/license/yksanjo/decision-tree-builder)
+![Last Commit](https://img.shields.io/github/last-commit/yksanjo/decision-tree-builder)
+![Repo Size](https://img.shields.io/github/repo-size/yksanjo/decision-tree-builder)
+
 ## Detailed Description
 
 decision-tree-builder is maintained as an industry-grade software project with production-ready engineering practices.  
